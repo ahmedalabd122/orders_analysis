@@ -1,0 +1,11 @@
+{
+    "app_name": "Orders Analysis",
+    "date_format": "{month} {year}"
+    ,
+    "language": "English"
+    ,
+    "total_orders": "Total Orders",
+    "returns_count" : "Returns Count",
+    "average_sales": "Average Sales"
+  }
+  

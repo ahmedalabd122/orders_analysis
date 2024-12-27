@@ -1,0 +1,9 @@
+{
+    "app_name": "تحليل بيانات الطلبات",
+    "date_format": "{month} {year}",
+    "language": "العربية",
+    "total_orders": "إجمالي الطلبات",
+    "returns_count" : "عدد المرتجعات",
+    "average_sales": "متوسط المبيعات"
+  }
+  
